@@ -1,0 +1,7 @@
+aiogram
+aiohttp
+requests
+python-dotenv
+qrcode[pil]
+Pillow
+playwright
